@@ -1,1 +1,3 @@
-These examples relate to a blog post on "alexyoung.org":http://alexyoung.org
+These examples relate to a blog post on "alexyoung.org":http://alexyoung.org.
+
+The final technique can be seen in use in "riotjs":http://github.com/alexyoung/riotjs.
